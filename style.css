@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+.div1{
+	background-color:#FC6;
+	height:50px;
+	width:690px;
+	text-align:center;
+	vertical-align:middle;
+	}
+	
+.div2{
+	margin-top:10px;
+	margin-right:10px;
+	background-color:#6CF;
+	width:90px;
+	height:120px;
+	border:50px;
+	float:left;
+	}
+.div3{
+	clear:right;
+	background-color:#999;
+	padding-top:20px;
+	width:540px;
+	margin-left:150px;
+	margin-top:10px;
+	height:190px;
+	}
+.div4{
+	margin-top:10px;
+	margin-left:10px;
+	margin-bottom:10px;
+	margin-right:10px;
+	background-color:#06C;
+	width:290px;
+	height:160px;
+	float:left;
+	}
+.div5{
+	clear:right;
+	background-color:#C33;
+	margin-top:10px;
+	margin-left:320px;
+	margin-bottom:20px;
+	margin-right:10px;
+	width:180px;
+	height:70px;
+	}
+.div6{
+	clear:right;
+	background-color:#C33;
+	margin-top:10px;
+	margin-left:320px;
+	margin-bottom:20px;
+	margin-right:10px;
+	height:70px;
+	width:180px
+	}
+.div7{
+	clear:right;
+	background-color:#999;
+	width:540px;
+	margin-left:150px;
+	margin-top:10px;
+	height:120px;
+	}
+.div8{
+	float:right;
+	background-color:#C33;
+	margin-top:30px;
+	margin-left:50px;
+	margin-bottom:10px;
+	margin-right:40px;
+	width:180px;
+	height:70px;
+	}
+.div9{
+	background-color:#FC6;
+	height:50px;
+	width:690px;
+	margin-top:10px;
+	}
